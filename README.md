@@ -3,7 +3,7 @@
 ## **Introduction**
 
 Implementing a GUI application for 3D Alignment/Transformation of meshes using Qt and C++.  
-Aligning the 3D scans/meshes is one of the important task in statistical shape model fitting pipeline. For details regarding the alignment concepts, please reader refer to my another repository called: Rigid and Non-rigid Transformation of two 3D Human full-body scans.
+Aligning the 3D scans/meshes is one of the important task in statistical shape model fitting pipeline. For details regarding the alignment concepts, reader refer to my another repository called: Rigid and Non-rigid Transformation of two 3D Human full-body scans.
 
 ## Requirments
 - Qt 
