@@ -17,7 +17,7 @@ Aligning the 3D scans/meshes is one of the important task in statistical shape m
 1. Build code using CMake
 
 ## Sample GUI output
-<img src="images/output.jpg" width="100" >
+<img src="images/output.jpg" width="1000" >
 
 ## Note:
 Status of this project: under implementation 
