@@ -16,6 +16,8 @@ Aligning the 3D scans/meshes is one of the important task in statistical shape m
 1. Install Qt VTK ( You can find here installing QtVTK: https://github.com/VelazcoJD/QtVTKTutorial)
 1. Build code using CMake
 
+## Sample GUI output
+![Tool's Sample GUI output](images/output.jpg)
 ## Note:
 Status of this project: under implementation 
 
